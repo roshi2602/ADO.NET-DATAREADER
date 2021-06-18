@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETDataReader\bin\Debug\ADO.NETDataReader.exe.config
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETDataReader\bin\Debug\ADO.NETDataReader.exe
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETDataReader\bin\Debug\ADO.NETDataReader.pdb
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETDataReader\obj\Debug\ADO.NETDataReader.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETDataReader\obj\Debug\ADO.NETDataReader.exe
+C:\Users\lenovo\source\repos\ADO.Net\ADO.NETDataReader\obj\Debug\ADO.NETDataReader.pdb
